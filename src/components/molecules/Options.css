@@ -1,0 +1,6 @@
+.Options{
+    display:  grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 1rem 2rem;
+}

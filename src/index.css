@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+*{
+font-family: 'Roboto', sans-serif;
+}
+button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+body{
+    background-color: #000000;
+}

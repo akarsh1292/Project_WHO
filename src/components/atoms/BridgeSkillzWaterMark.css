@@ -1,0 +1,13 @@
+.WaterMark{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.WaterMark img{
+    width: 70px;
+}
+.WaterMark .TitleAndTagline{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
